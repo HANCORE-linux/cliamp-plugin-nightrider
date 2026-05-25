@@ -1,7 +1,7 @@
 -- A dynamic, center-expanding spectrum visualizer for cliamp,
 -- featuring discrete bars with an intensity-based color gradient
 
-local p = plugin.register({ name = "nightrider", type = "visualizer" })
+local p = plugin.register({ name = "Nightrider", type = "visualizer" })
 
 local ESC = string.char(27)
 local RESET = ESC .. "[0m"
