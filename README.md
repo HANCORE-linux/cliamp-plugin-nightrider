@@ -7,7 +7,7 @@ A dynamic, center-expanding spectrum visualizer for [cliamp](https://cliamp.stre
 ## Install
 
 ```bash
-cliamp plugins install [YOUR_GITHUB_USERNAME]/cliamp-plugin-nightrider
+cliamp plugins install HANCORE-linux/cliamp-plugin-nightrider
 ```
 
 Start `cliamp` and press `v` to cycle through the visualizers until `nightrider` appears.
